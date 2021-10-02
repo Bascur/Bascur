@@ -6,7 +6,7 @@
 - Spanish is my mother tongue but i'm completly fluent in english. (Level B2 According to FCE Cambridge)
 - 💞️I’m looking to collaborate on... Anything?
 - HTML, CSS, JS, NODE, MYSQL, MONGODB.
-- Currently learning PHP.
+- Currently learning PHP & Java
 - 📫 How to reach me bascur62@gmail.com or Bascur#6465 on Discord.
 
 <!---
