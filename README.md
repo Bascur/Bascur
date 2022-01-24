@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Bascur
 - I’m interested in learn new things about programming and life.
+- Trainee developer on SouthWorks.
 - Systems analyst in the making.
 - Web Developer in the making.
 - Flutter Developer in the making.
