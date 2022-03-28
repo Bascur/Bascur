@@ -1,14 +1,12 @@
 - 👋 Hi, I’m @Bascur
 - I’m interested in learn new things about programming and life.
-- Trainee developer on SouthWorks.
+- Node.js Dev at SouthWorks.
 - Systems analyst in the making.
-- Web Developer in the making.
-- Flutter Developer in the making.
 - From Argentina.
-- Spanish is my mother tongue but i'm completly fluent in english. (Level B2 According to FCE Cambridge)
+- Spanish is my mother tongue but i'm completly fluent in english. (Level C1 According to FCE Cambridge)
 - 💞️I’m looking to collaborate on... Anything?
 - HTML, CSS, JS, NODE, MYSQL, MONGODB.
-- Currently learning PHP & Flutter.
+- Learning Flutter.
 - 📫 How to reach me bascur62@gmail.com or Bascur#6465 on Discord.
 
 <!---
